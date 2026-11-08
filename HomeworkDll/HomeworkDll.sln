@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkDll", "HomeworkDll.csproj", "{3667702F-7946-4FAA-946F-DBF6FDA94850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3667702F-7946-4FAA-946F-DBF6FDA94850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3667702F-7946-4FAA-946F-DBF6FDA94850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3667702F-7946-4FAA-946F-DBF6FDA94850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3667702F-7946-4FAA-946F-DBF6FDA94850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ABA937D-0CEE-4F4B-8E8E-FFD457D80B67}
+	EndGlobalSection
+EndGlobal
